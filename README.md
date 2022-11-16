@@ -40,4 +40,4 @@ print("마크다운 공부중입니다")
 ## Hi there 👋
 # Hi there 👋
 ---
-<image src="image/20220118_101207.png">
+<image src="images/mbti.jpg">
