@@ -1,16 +1,24 @@
+**두껍게** <br>
+*기울기* <br>
+~~취소선~~ <br>
+- 1번
+- 2번
+- 3번 <br>
+
+```
+print("마크다운 공부중입니다")
+```
+
+:smirk:
+:joy:
+:rage:
+
+
+[네이버 가자](http://www.naver.com)
+##### Hi there 👋
+#### Hi there 👋
 ### Hi there 👋
+## Hi there 👋
+# Hi there 👋
+---
 
-<!--
-**GithubstartOoO/GithubstartOoO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
